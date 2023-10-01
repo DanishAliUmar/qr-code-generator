@@ -51,7 +51,7 @@ const clearUI = () => {
 
 // hide  scanner
 const showScanner = () => {
-  const scanner = document.getElementById("qrCodeContainer");
+  const scanner = document.getElementById("qrcode");
   scanner.style.display = "block";
 };
 
